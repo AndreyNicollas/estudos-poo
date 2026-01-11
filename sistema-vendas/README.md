@@ -1,9 +1,5 @@
 # 🛒 Sistema de Vendas (Console Application)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-## 📖 Sobre o Projeto
-
 Este é um projeto prático desenvolvido como atividade acadêmica na **Universidade Estadual do Maranhão (UEMA)**.
 
 O objetivo principal foi aplicar conceitos fundamentais de **Programação Orientada a Objetos (POO)** em **Java**, criando um sistema de gerenciamento de vendas que opera via console. O projeto simula um pequeno ambiente comercial onde é possível gerenciar clientes, produtos e realizar venda, utilizando estruturas de dados em memória (`ArrayList`) para persistência temporária dos dados.
